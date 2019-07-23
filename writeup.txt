@@ -1,0 +1,14 @@
+John Abrams
+5/12/2019
+CS 314 (Prin. Prog.) - Final Project
+writeup.txt
+
+As soon as the project was released I knew I wanted to try implementing a game in Python for the first time. My hopeful intention was to not only author a customized GUI, but to also provide some sort of AI functionality that would either provide hints and/or simulate an entire game. 
+
+While I was unable to accomplish the latter, I'm abundantly proud of my result with the former. My version improves upon nearly every version of Minesweeper I've ever played, all of which proudly boast painfully archaic original stylings. The experience my interpretation offers is warm in color (especially my favorite color, orange), dark-themed and thus easy on the eyes, simplistic/minimalistic, and small enough to sit in the top corner of a workstation without hinderance. I was able to accomplish this by hand-drawing the 16x16 .gif files it references via an online web application.
+
+The gameplay is also nearly perfect. I say nearly because I've noticed a few small bugs that I haven't been able to entirely fix, though I've mitigated most of them. Very rarely uncovered squares will show incorrect numbers or the game may claim the user has won/lost before they truly have.
+
+As my first mini-program in Python outside of basic homework assignments, the largest challenge I faced was far and away debugging. As we've learned in class, the wealth of functionality that Python provides manifests itself in trickiness when trying to locate errors in the code, due in part to the general leniency of the language. Nevertheless, the ability to generate lists, queues, and objects without stressing over the types of my variables, as well as single-line loops made the code-writing process quicker and more straightforward than it otherwise could've been.
+
+I'm certain I'll revisit this project in the future in order to add functionality - particularly AI - and remove all bugs. While there's still much room for improvement with regards to this application, I'm enormously pleased with the amount I was able to accomplish in so short a time. 
